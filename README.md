@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Welcome to My Data World 
 
 <img src="https://github.com/Tris-Nguyen/Tris-Nguyen/blob/main/74pZ.gif">
 <h1 align="center">Hi 👋, I'm Huong (Tris) Nguyen</h1>
