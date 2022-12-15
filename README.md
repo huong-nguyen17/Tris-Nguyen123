@@ -3,7 +3,7 @@
 [![MasterHead](https://i.gifer.com/74pZ.gif)]
 <h1 align="center">Hi 👋, I'm Huong (Tris) Nguyen</h1>
 <h3 align="center">I am a Chemical Lab Technician and switching into Data World</h3>
-<img aligh="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
+<img aligh="center" alt="Coding" width="600" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tris-nguyen&label=Profile%20views&color=0e75b6&style=flat" alt="tris-nguyen" /> </p>
 
